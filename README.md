@@ -1,6 +1,8 @@
 # MMM-DeLijn
 
-This is a module for the Magic Mirror. It loads live timings for a specific bus stop.
+This is a module for the Magic Mirror. It loads live timings for a specific bus stop. (bus nr, estimated time of arrival, minutes from now till ETA)
+
+![MMM-DeLijn](MMM-DeLijn.jpg "MMM-DeLijn")
 
 ## Installation
 
